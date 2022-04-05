@@ -1,0 +1,15 @@
+{
+  "item.expensive.long_wooden_sword": "Long Wooden Sword",
+  "item.expensive.one_dollar": "1$ Dollar Bill",
+  "item.expensive.onehundred_dollar": "100$ Bill",
+  "item.expensive.onethousand_dollar": "1000$ Bill",
+  "item.expensive.tenthousand_dollar": "10,000$ Bill",
+  "item.expensive.onehundredthousand_dollar": "100,000$ Bill",
+
+  "block.expensive.cash_register": "Cash Register",
+
+  "itemGroup.expensive.money": "Expensive Mod",
+
+  "entity.minecraft.villager.businessman": "Businessman Villager"
+
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "expensive:item/long_wooden_sword"
+  }
+}

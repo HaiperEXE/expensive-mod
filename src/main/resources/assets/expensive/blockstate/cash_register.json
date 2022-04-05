@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "expensive:block/cash_register" }
+  }
+}

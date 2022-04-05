@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "",
+    "",
+    ""
+
+
+  ],
+  "key": {
+    "": {
+      "item": "minecraft:"
+    },
+    "": {
+      "item": "minecraft:"
+    },
+    "": {
+      "item": "minecraft:"
+    }
+
+  },
+  "result": {
+    "item": "expensive:one_dollar"
+  }
+
+}

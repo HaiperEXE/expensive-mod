@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "expensive",
+  "version": "${version}",
+
+  "name": "Expensive",
+  "description": "in this mod i have added some items weapons and blocks, it doesn't contain structures",
+  "authors": [
+    "HaiperEXE"
+  ],
+  "contact": {
+    "homepage": "https://youtube.com/c/haiperexe/",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/expensive/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.haiper.expensive.Expensive"
+    ],
+    "client": [
+      "net.haiper.expensive.ExpensiveClient"
+    ]
+  },
+  "mixins": [
+    "expensive.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
